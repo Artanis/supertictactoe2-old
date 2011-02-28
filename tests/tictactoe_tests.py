@@ -120,3 +120,4 @@ def test_tictactoe_move_cats():
         [0, 4, 8, 7, 1, 2, 6, 3, 5])]
     
     assert_equal(engine.winner, "cats")
+
